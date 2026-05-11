@@ -1,0 +1,23 @@
+#img{
+    width: 70px;
+    height: 70px;
+    margin-left: 40%;
+}
+#container{
+    width: 200px;
+    height: 200px;
+    background-color: forestgreen;
+    border-radius: 20px;
+    align-content: center;
+}
+#txt{
+    margin-left: 15px;
+    font-family: Montserrat;
+}
+.button{
+    width: 80%;
+    margin-left: 15px;
+}
+#container{
+    margin-left: 20%;
+}
